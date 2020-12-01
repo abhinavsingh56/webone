@@ -1,3 +1,3 @@
 # webone
-
+Struts Hibernate Integration
 
